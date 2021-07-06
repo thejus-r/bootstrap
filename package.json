@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "coursera module 1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejus-r/bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejus-r/bootstrap/issues"
+  },
+  "homepage": "https://github.com/thejus-r/bootstrap#readme"
+}
